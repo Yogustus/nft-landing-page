@@ -33,5 +33,6 @@ Associated Source Code: [v1.1.0](https://github.com/codeSTACKr/nft-landing-page/
 - Update `style.css` file
   - Fonts
   - Colors
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/c4c2e6a0-9ba9-4e6e-bdfa-d87fee61a677/deploy-status)](https://app.netlify.com/sites/affectionate-leakey-a749e8/deploys)
 
 ## Watch the [video walkthroughs](#video-walkthrough) above for more detailed instructions.
